@@ -1,0 +1,16 @@
+<div class="message direct_user">
+
+	<div class="avatar">
+		<small class="sender"><%= sender %></small>
+		&raquo;
+		<small class="target"><%= target %></small>
+	</div>
+
+	<p>
+		<%= body %>
+	</p>
+
+	<small class="datetime">
+		<%= new Date().toTimeString() %>
+	</small>
+</div>

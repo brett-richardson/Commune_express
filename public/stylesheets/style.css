@@ -1,0 +1,18 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.message{
+	padding:4px; margin:4px;
+	border:#F0F0F0 1px solid;
+}
+
+small{
+	color:#777;
+}
+
